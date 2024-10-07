@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media not all and (min-width: 640px) {
+  .xyz {
+    max-width: 125%;
+    height: auto;
+  }
+}
