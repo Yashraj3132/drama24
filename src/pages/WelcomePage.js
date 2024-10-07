@@ -85,7 +85,8 @@ function WelcomePage() {
             <div className="absolute flex justify-center items-center inset-0 pt-16 mt-4 max-sm:pt-5 max-sm:h-40 max-sm:pr-3">
               <Link
                 onClick={handleImageSwitch}
-                className="bg-transparent hover:bg-blue-500 font-semibold text-white-500 hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded ml-4 max-sm:py-1 max-sm:px-2 max-sm:text-sm">
+                className="bg-transparent hover:bg-blue-500 font-semibold text-white-500 hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded ml-4 max-sm:py-1 max-sm:px-2 max-sm:text-sm"
+                  to="https://forms.gle/YK81kV1PjbxX87ps7">
                 Register
               </Link>
             </div>
