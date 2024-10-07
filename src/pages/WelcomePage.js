@@ -69,7 +69,7 @@ function WelcomePage() {
           </div>
           <div>
             <h2 className="text-lg max-sm:text-base max-sm:pt-5">
-              We turn every ordinary into extraordinary
+             Experience the blend of emotions and talent with social cause
             </h2>
           </div>
           <div className="bebas-neue-regular text-lg max-sm:text-base">
